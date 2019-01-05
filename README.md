@@ -1,4 +1,4 @@
-# elk
+# Como instalar a stack ELK (Elasticsearch, Logstash e Kibana)
 
 ### Instalação:
 ```
