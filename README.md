@@ -131,5 +131,3 @@ Se você for lá em um navegador, depois de inserir as credenciais do "kibanaadm
 
 
 
-
-35.231.189.187
